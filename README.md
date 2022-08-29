@@ -57,6 +57,18 @@ All the details can be found by visiting the Landing page and the repo.
 
 All the details can be found by visiting the Landing page and the repo.
 
-- [Source Code](https://github.com/enigmaticmahesh/exercism-project)
+- [Source Code](https://github.com/enigmaticmahesh/react-with-docker-and-nginx)
+
+---
+
+##### 4. Serving Angular app with Node server
+
+**Skills:**
+
+> Node.js
+
+All the details can be found by visiting the Landing page and the repo.
+
+- [Source Code](https://github.com/enigmaticmahesh/serving-angular-in-node)
 
 ---
