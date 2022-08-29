@@ -4,6 +4,8 @@ List of all the works I am doing or done ☺
 
 ##### 1. NFT App
 
+---
+
 **Skills:**
 
 > React, React Native, Tailwind Css, Expo
@@ -14,6 +16,8 @@ All the details can be found by visiting the Landing page and the repo.
 - [Visit](https://broad-cake-5668.on.fleek.co/)
 
 ##### 2. Echart App
+
+---
 
 **Skills:**
 
@@ -30,6 +34,8 @@ All the details can be found by visiting the Landing page and the repo.
 
 ##### 3. Excercism Test App
 
+---
+
 **Skills:**
 
 > React
@@ -45,10 +51,13 @@ All the details can be found by visiting the Landing page and the repo.
 
 ##### 4. React with Docker Integration
 
+---
+
 **Skills:**
 
 > React, Docker
 
 All the details can be found by visiting the Landing page and the repo.
 
-- [Source Code](https://github.com/enigmaticmahesh/react-with-docker-and-nginx)
+- [Source Code](https://github.com/enigmaticmahesh/exercism-project)
+- [Visit](https://rough-rice-9921.on.fleek.co/)
