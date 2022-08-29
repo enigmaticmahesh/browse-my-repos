@@ -58,6 +58,5 @@ All the details can be found by visiting the Landing page and the repo.
 All the details can be found by visiting the Landing page and the repo.
 
 - [Source Code](https://github.com/enigmaticmahesh/exercism-project)
-- [Visit](https://rough-rice-9921.on.fleek.co/)
 
 ---
