@@ -17,9 +17,38 @@ All the details can be found by visiting the Landing page and the repo.
 
 **Skills:**
 
-> React, Yarn
+> React, Yarn, Typescript
+
+**Libraries:**
+
+> Echart
 
 All the details can be found by visiting the Landing page and the repo.
 
 - [Source Code](https://github.com/enigmaticmahesh/echart-app)
 - [Visit](https://flourishing-banoffee-d291d7.netlify.app/)
+
+##### 3. Excercism Test App
+
+**Skills:**
+
+> React
+
+**Libraries:**
+
+> Dayjs, React Select, Axios
+
+All the details can be found by visiting the Landing page and the repo.
+
+- [Source Code](https://github.com/enigmaticmahesh/exercism-project)
+- [Visit](https://rough-rice-9921.on.fleek.co/)
+
+##### 4. React with Docker Integration
+
+**Skills:**
+
+> React, Docker
+
+All the details can be found by visiting the Landing page and the repo.
+
+- [Source Code](https://github.com/enigmaticmahesh/react-with-docker-and-nginx)
