@@ -9,6 +9,10 @@ A dummy app with list of NFTs that can be browsed. I made it while learning for 
 - Landing Page - Made with **React and Tailwind Css**, described in various sections with different images of the app.
 - The App itself - Made with **React Native and Expo** - You can view it in your Expo app by scanning the QR code whose link can be found in the Landing page.
 
+Skills used:
+
+> React, React Native, Tailwind Css, Expo
+
 All the details can be found by visiting the Landing page and the repo.
 
 - [Source Code](https://github.com/enigmaticmahesh/react-native-nft-app)
