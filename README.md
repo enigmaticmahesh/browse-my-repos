@@ -8,4 +8,5 @@ List of all the works I am doing or done ☺
 ### [4. React with Docker Integration](https://github.com/enigmaticmahesh/react-with-docker-and-nginx)
 ### [5. Serving Angular app with Node server](https://github.com/enigmaticmahesh/serving-angular-in-node)
 ### [6. Simple server with Go](https://github.com/enigmaticmahesh/simple-go-server)
+### [7. Server with Node.js & SQLite](https://github.com/enigmaticmahesh/node-with-sqlite)
 
