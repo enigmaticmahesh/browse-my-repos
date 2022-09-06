@@ -7,4 +7,5 @@ List of all the works I am doing or done ☺
 ### [3. Excercism Test App](https://github.com/enigmaticmahesh/exercism-project)
 ### [4. React with Docker Integration](https://github.com/enigmaticmahesh/react-with-docker-and-nginx)
 ### [5. Serving Angular app with Node server](https://github.com/enigmaticmahesh/serving-angular-in-node)
+### [6. Simple server with Go](https://github.com/enigmaticmahesh/simple-go-server)
 
