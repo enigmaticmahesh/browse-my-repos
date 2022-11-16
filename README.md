@@ -6,16 +6,14 @@ List of all the works I am doing or done ☺
 
 ### [2. Echart App](https://github.com/enigmaticmahesh/echart-app)
 
-### [3. Excercism Test App](https://github.com/enigmaticmahesh/exercism-project)
+### [3. React with Docker Integration](https://github.com/enigmaticmahesh/react-with-docker-and-nginx)
 
-### [4. React with Docker Integration](https://github.com/enigmaticmahesh/react-with-docker-and-nginx)
+### [4. Serving Angular app with Node server](https://github.com/enigmaticmahesh/serving-angular-in-node)
 
-### [5. Serving Angular app with Node server](https://github.com/enigmaticmahesh/serving-angular-in-node)
+### [5. Simple server with Go](https://github.com/enigmaticmahesh/simple-go-server)
 
-### [6. Simple server with Go](https://github.com/enigmaticmahesh/simple-go-server)
+### [6. Server with Node.js & SQLite](https://github.com/enigmaticmahesh/node-with-sqlite)
 
-### [7. Server with Node.js & SQLite](https://github.com/enigmaticmahesh/node-with-sqlite)
+### [7. Hacker News Search](https://github.com/enigmaticmahesh/hacker-news-search)
 
-### [8. Hacker News Search](https://github.com/enigmaticmahesh/hacker-news-search)
-
-### [9. Angular with Firebase](https://github.com/enigmaticmahesh/angular_firebase_auth)
+### [8. Angular with Firebase](https://github.com/enigmaticmahesh/angular_firebase_auth)
