@@ -10,8 +10,8 @@ List of all the works I am doing or done ☺
 
 ### [4. Serving Angular app with Node server](https://github.com/enigmaticmahesh/serving-angular-in-node)
 
-### [6. Server with Node.js & SQLite](https://github.com/enigmaticmahesh/node-with-sqlite)
+### [5. Server with Node.js & SQLite](https://github.com/enigmaticmahesh/node-with-sqlite)
 
-### [7. Hacker News Search](https://github.com/enigmaticmahesh/hacker-news-search)
+### [6. Hacker News Search](https://github.com/enigmaticmahesh/hacker-news-search)
 
-### [8. Angular with Firebase](https://github.com/enigmaticmahesh/angular_firebase_auth)
+### [7. Angular with Firebase](https://github.com/enigmaticmahesh/angular_firebase_auth)
