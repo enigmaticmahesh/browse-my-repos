@@ -10,8 +10,6 @@ List of all the works I am doing or done ☺
 
 ### [4. Serving Angular app with Node server](https://github.com/enigmaticmahesh/serving-angular-in-node)
 
-### [5. Simple server with Go](https://github.com/enigmaticmahesh/simple-go-server)
-
 ### [6. Server with Node.js & SQLite](https://github.com/enigmaticmahesh/node-with-sqlite)
 
 ### [7. Hacker News Search](https://github.com/enigmaticmahesh/hacker-news-search)
