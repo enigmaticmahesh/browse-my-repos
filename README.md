@@ -1,6 +1,7 @@
 # My Learnings
 
 List of all the works I am doing or done ☺
+(NOTE: There are other repos which are not listed. Feel free to check my public repos)
 
 ### [1. NFT App](https://github.com/enigmaticmahesh/react-native-nft-app)
 
